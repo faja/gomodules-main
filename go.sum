@@ -1,0 +1,10 @@
+github.com/faja/gomodules v1.0.0 h1:Rjy5oUKy9XNL8BFGI4BZcYMoE7RxN7p3LgKxtlB75uc=
+github.com/faja/gomodules v1.0.0/go.mod h1:5m6wRsnkAAkA2N5lEkysw5wwCKSJ7O6CGCSrTl3pDzw=
+github.com/faja/gomodules v1.0.1 h1:+LjiUOfez+OcFz4WBiGhfn9GKoo/gpL3bGEBSBZAE/o=
+github.com/faja/gomodules v1.0.1/go.mod h1:5m6wRsnkAAkA2N5lEkysw5wwCKSJ7O6CGCSrTl3pDzw=
+github.com/faja/gomodules v1.0.2 h1:47uGUMYhFu38ZPnkN3kp4JO+1Zoh9Cx9n4hfh/uB+sw=
+github.com/faja/gomodules v1.0.2/go.mod h1:5m6wRsnkAAkA2N5lEkysw5wwCKSJ7O6CGCSrTl3pDzw=
+github.com/faja/gomodules/p1 v1.0.5 h1:5bRsGU9zAFDk/bjP3hI1hZS0Lu1nC1ZbHDG1AXxPjwk=
+github.com/faja/gomodules/p1 v1.0.5/go.mod h1:65Aq050X1+0gn8lclr7dsqhTWsW3bYs8aTZ6qeE9Dr4=
+github.com/faja/gomodules/p2 v1.0.4 h1:rybfVniEB3iG3aZPJ0biSJEzjzWUm+MMzV92smuocuM=
+github.com/faja/gomodules/p2 v1.0.4/go.mod h1:vy9yxWzY9a161zk0++lPlT5Knb3fMoJW73f8H0I9XX8=
